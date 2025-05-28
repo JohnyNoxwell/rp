@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/projects/worldclass", {data:[{}],fetch:[],mutations:void 0});

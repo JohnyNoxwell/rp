@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/services/mobile", {data:[{}],fetch:[],mutations:void 0});

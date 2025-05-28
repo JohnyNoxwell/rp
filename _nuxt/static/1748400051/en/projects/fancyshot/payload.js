@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/projects/fancyshot", {data:[{}],fetch:[],mutations:void 0});
